@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated files
+swirl-of-squares/treasure_hunt_2.bin
+swirl-of-squares/treasure_hunt_2.png
