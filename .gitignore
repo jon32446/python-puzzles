@@ -131,6 +131,7 @@ dmypy.json
 # Generated files
 swirl-of-squares/treasure_hunt_2.bin
 swirl-of-squares/treasure_hunt_2.png
+text-block/treasure_hunt_1.png
 
 # IDE folder
 .vscode/
