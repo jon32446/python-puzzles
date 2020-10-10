@@ -1,7 +1,7 @@
 # Python puzzles
 A collection of programmer puzzles, written in Python
 
-## Text bock
+## Text block
 The image contains multiple levels of puzzle.
 
 ![Text block puzzle](/text-block/treasure_hunt_1_final.png "Text block puzzle")
